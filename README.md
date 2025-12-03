@@ -8,6 +8,9 @@ A simple AI-powered platform to help students prepare for jobs. It includes:
 
 This is a **resume project**, built to showcase full-stack development skills.
 
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/d6912919-07ae-4751-8f66-75e6e84c12ad" />
+
+
 ---
 
 ## 🚀 Features
@@ -96,3 +99,4 @@ root
 
 Made by **Vishal Maurya** (Student Developer)
 Feel free to connect for project details or improvements!
+
