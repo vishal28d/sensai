@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sens-ai
+  labels:
+    app: sens-ai
+spec:
+  type: ClusterIP
+  selector:
+    app: sens-ai
+  ports:
+  - port: 3100
+    targetPort: 3100
+    protocol: TCP
