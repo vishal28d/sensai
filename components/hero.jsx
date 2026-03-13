@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
 const HeroSection = () => {
+  //new test commit
 
   return (
     <section className="w-full pt-36 md:pt-48 pb-10">
